@@ -1,0 +1,19 @@
+.container form {
+    margin: 80px;
+}
+
+.container h2 {
+    margin: 30px;
+}
+
+
+.gold {
+    background-color: skyblue;
+    padding: 30px;
+}
+
+.bawah {
+    background: black;
+    color: white;
+    text-align: center;
+}
